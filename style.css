@@ -1,0 +1,17 @@
+body {
+ background-color: rgb(134, 184, 159);
+ color: white;
+   font-family: "Irish Grover", system-ui;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 700px;
+   margin: 0;
+
+}
+
+button{
+    background-color: rgb(108, 161, 161);
+    color: white
+    font-family: "Irish Grover", system-ui;
+}
